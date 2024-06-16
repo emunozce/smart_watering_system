@@ -9,6 +9,7 @@ install = "*"
 pyserial = "*"
 boto3 = "*"
 requests = "*"
+resend = "*"
 
 [dev-packages]
 
