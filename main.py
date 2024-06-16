@@ -1,7 +1,6 @@
 import time
 import requests
 import serial
-import boto3
 import resend
 
 # Open the serial port
